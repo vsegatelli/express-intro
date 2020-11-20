@@ -1,2 +1,2 @@
 # express-intro
-Introdução ao Node Express
+Introdução ao Express.js
